@@ -15,6 +15,4 @@ Esse projeto foi desenvolvido durante um vídeo no Youtube com as seguintes tecn
 ## 🏷️ Layout
 Você pode visualizar o layoout do projeto através
 https://www.figma.com/file/dM9zApwPR9l4dxsZfe0iaW/Calculadora_IMC?type=design&node-id=0%3A1&mode=design&t=KNYtGnQi6ottWTPI-1
-<p
 É necessário ter uma conta no [Figma](https://www.figma.com)
-</p>
