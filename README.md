@@ -1,5 +1,4 @@
 <p align="center">
-  http://127.0.0.1:5500/IMC%20Calculadora/index.html
   <img src="IMC Calculadora/assets/Calculadora_IMC.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
